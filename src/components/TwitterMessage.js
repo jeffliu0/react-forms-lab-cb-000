@@ -1,6 +1,6 @@
 import React from "react";
 
-export defauly class TwitterMessage extends React.Component {
+export default class TwitterMessage extends React.Component {
 
   constructor() {
     super();
@@ -29,5 +29,3 @@ export defauly class TwitterMessage extends React.Component {
     );
   }
 }
-
-export default TwitterMessage;
