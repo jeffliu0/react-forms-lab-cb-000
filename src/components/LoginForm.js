@@ -1,6 +1,6 @@
 import React from "react";
 
-class LoginForm extends React.Component {
+export default class LoginForm extends React.Component {
   constructor() {
     super();
 
