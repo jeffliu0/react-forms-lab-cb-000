@@ -55,5 +55,3 @@ export default class LoginForm extends React.Component {
     );
   }
 }
-
-export default LoginForm;
